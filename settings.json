@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "STRING1.C": "cpp",
+        "QUES1.C": "cpp",
+        "QUES2.C": "cpp",
+        "QUES3.C": "cpp",
+        "QUES4.C": "cpp",
+        "QUES5.C": "cpp",
+        "QUES6.C": "cpp",
+        "QUES7.C": "cpp",
+        "QUES8.C": "cpp",
+        "QUES9.C": "cpp",
+        "QUES10.C": "cpp",
+        "QUES11.C": "cpp",
+        "QUES12.C": "cpp",
+        "QUES13.C": "cpp",
+        "QUES14.C": "cpp",
+        "QUES15.C": "cpp",
+        "QUES16.C": "cpp",
+        "QUES17.C": "cpp",
+        "QUES18.C": "cpp",
+        "21FEB.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
